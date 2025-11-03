@@ -11,14 +11,22 @@ body{
 }
 .sitenav-list{
     list-style: none;
+    margin-right: 30px;
+    padding-right: 20px;
 }
+.sitenav-item1{
+    display: inline;
+   
 
 .sitenav-link{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-decoration: none;
         text-transform: uppercase;
         color: black;
+        display: inline;
         
+}
+
 }
 .hero{
     background-color: skyblue;
